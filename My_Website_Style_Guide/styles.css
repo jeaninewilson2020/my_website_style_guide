@@ -1,0 +1,128 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Georgia;
+  }
+  .colors-title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+  }
+  .colors {
+    border: 3px solid black;
+    display: inline-block;
+  }
+  p.color-1 {
+    background-color: rgb(228,185,171);
+    border: 1px solid white;
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    padding-top: 30px;
+    text-align: center;
+  }
+  
+  p.color-2 {
+    background-color: rgb(243, 240, 246);
+    border: 1px solid white;
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    padding-top: 30px;
+    text-align: center;
+  }
+  
+  p.color-3 {
+    background-color: rgb(255, 253, 249);
+    border: 1px solid white;
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    padding-top: 30px;
+    text-align: center;
+  }
+  
+  p.color-4 {
+    background-color: rgb(246, 217, 213);
+    border: 1px solid white;
+    display: block;
+    width: 200px;
+    height: 100px;
+    padding-top: 30px;
+    text-align: center;
+    position: relative;
+    clear: left;
+  }
+  
+  h2 {
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+  }
+  
+  .title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+  }
+  
+  .fonts {
+    display: block;
+    border: 3px solid black;
+    width: 611px;
+    margin-top: 20px;
+  }
+  
+  
+  p.Raleway {
+    font-family: "Raleway";
+    padding-left: 90px;
+    padding-top: 20px;
+  }
+  
+  p.Montserrat {
+    font-family: "Montserrat";
+    padding-left: 90px;
+     padding-top: 20px;
+  }
+  
+  p.Open-Sans {
+    font-family: "Open Sans";
+    padding-left: 90px;
+   padding-top: 20px;
+  }
+  
+  .text-styles {
+    display: block;
+    border: 3px solid black;
+    width: 611px;
+    margin-top: 20px;
+  }
+  
+  #main-heading {
+   text-align: left;
+    font-family: Raleway;
+    font-size: 26px;
+    font-weight: bold;
+  }
+  
+  .ul {
+   text-align: left;
+  }
+  
+  .subheading {
+    text-align: left;
+    font-size: 20px;
+    font-family: Montserrat;
+    border: none;
+    display: inline;
+    font-weight: 700px;
+  }
+  
+  .paragraph {
+    font-weight: 400px;
+    font-size: 18px;
+    font-family: "Open Sans";
+  }
